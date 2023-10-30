@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am currently a student from the University of the Philippines
 
 <!--
 **kmtalosig/kmtalosig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
